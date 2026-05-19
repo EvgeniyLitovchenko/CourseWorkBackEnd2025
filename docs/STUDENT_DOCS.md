@@ -162,28 +162,28 @@
 
 ## ПОСИЛАННЯ НА ЛІТЕРАТУРНІ ДЖЕРЕЛА
 
-1. **PHP Documentation.** Official PHP Manual. URL: https://www.php.net/manual/en/ (Дата доступу: 2025-02-19)
+1. **PHP Documentation.** Official PHP Manual. URL: https://www.php.net/manual/en/
 
-2. **MySQL Documentation.** MySQL 5.7 Reference Manual. URL: https://dev.mysql.com/doc/ (Дата доступу: 2025-02-19)
+2. **MySQL Documentation.** MySQL 5.7 Reference Manual. URL: https://dev.mysql.com/doc/
 
-3. **RESTful API Best Practices.** Microsoft Docs. URL: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design (Дата доступу: 2025-02-19)
+3. **RESTful API Best Practices.** Microsoft Docs. URL: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
-4. **Routing and MVC Pattern.** Laravel Documentation. URL: https://laravel.com/docs/routing (Дата доступу: 2025-02-19)
+4. **Routing and MVC Pattern.** Laravel Documentation. URL: https://laravel.com/docs/routing
 
-5. **Web Security.** OWASP Top 10. URL: https://owasp.org/www-project-top-ten/ (Дата доступу: 2025-02-19)
+5. **Web Security.** OWASP Top 10. URL: https://owasp.org/www-project-top-ten/
 
-6. **JSON Data Format.** Ecma International Standard ECMA-404. URL: https://www.json.org/ (Дата доступу: 2025-02-19)
+6. **JSON Data Format.** Ecma International Standard ECMA-404. URL: https://www.json.org/
 
-7. **Web Development Best Practices.** MDN Web Docs. URL: https://developer.mozilla.org/en-US/ (Дата доступу: 2025-02-19)
+7. **Web Development Best Practices.** MDN Web Docs. URL: https://developer.mozilla.org/en-US/
 
 8. **Database Design Principles.** Database Design for Mere Mortals by Michael J. Hernandez. 3rd Edition. Addison-Wesley Professional, 2013.
 
 9. **Software Architecture Patterns.** Building Microservices by Sam Newman. O'Reilly Media, 2015.
 
-10. **Object-Oriented Programming in PHP.** PHP OOP Tutorial. W3Schools. URL: https://www.w3schools.com/php/php_oop_intro.asp (Дата доступу: 2025-02-19)
+10. **Object-Oriented Programming in PHP.** PHP OOP Tutorial. W3Schools. URL: https://www.w3schools.com/php/php_oop_intro.asp
 
-11. **HTTP Protocol Specification.** RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content. URL: https://tools.ietf.org/html/rfc7231 (Дата доступу: 2025-02-19)
+11. **HTTP Protocol Specification.** RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content. URL: https://tools.ietf.org/html/rfc7231
 
-12. **SQL Best Practices.** SQL Performance Explained by Markus Winand. URL: https://sql-performance-explained.com/ (Дата доступу: 2025-02-19)
+12. **SQL Best Practices.** SQL Performance Explained by Markus Winand. URL: https://sql-performance-explained.com/
 
 ---
